@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "傍白",
+  "base_artist": "chilldspot",
+  "createdAt": "2026-02-18T19:36:25.207912Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "傍白",
+      "artist": "chilldspot",
+      "has_synced": false,
+      "path": "select/pl_01_傍白_chilldspot.txt"
+    }
+  ]
+}
